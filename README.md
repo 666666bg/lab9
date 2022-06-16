@@ -12,7 +12,8 @@ docker compose -p
 -----------------------------------------------------------------
 
 Here you can see pice of terminal after begin of command 1
-![image](https://user-images.githubusercontent.com/65243723/174092687-1593dc58-b3f9-44b6-b44d-b9210e6c51e7.png)
+![image](https://user-images.githubusercontent.com/65243723/174093807-80e64ba2-9545-4a57-acb3-4648366c03ac.png)
+
 -----------------------------------------------------------------
 
 Here you can see result after begin of command 2
