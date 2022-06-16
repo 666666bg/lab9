@@ -1,22 +1,24 @@
-Docker-lab9
 
-TI 6.1
-Hutsenko Vladyslav
+# Lab 9 Władysław Besarab 
+-----------------------------------------------------------------
+In order to run container you have to write such command 1:
+docker compose up -d
 
-To start container write in terminal: `docker compose up -d`
-To see running containers: `docker compose ps`
+-----------------------------------------------------------------
 
-Created 4 containers:
+In order to see list of containers (running now) you have to write command 2:
+docker compose -p
 
-![image](https://user-images.githubusercontent.com/63474317/173769472-bee44ed6-9a6c-4e7d-87cf-ec854cfe419c.png)
+-----------------------------------------------------------------
 
-Phpmyadmin:
+Here you can see pice of terminal after begin of command 1
 
-![image](https://user-images.githubusercontent.com/63474317/173769552-1e73868e-000b-4dc4-a892-a4a477c5ef78.png)
+-----------------------------------------------------------------
 
-In browser move to: 
-`http:/localhoost:8080`
+Here you can see result after begin of command 2
 
-User: `root`
-Password: `root`
+-----------------------------------------------------------------
+To login go to http:/localhoost:8080 and use user:root password:root
+Here you can see phpmyadmin page
+
 
